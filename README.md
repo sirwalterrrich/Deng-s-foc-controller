@@ -28,18 +28,18 @@
 
 ## 2 Hardware Features
 
-| Description | Parameters |
-| ---------------- | -------------------------------- ------------------------------- |
-| Dimensions | 56*39 mm |
-| Input Voltage Type | Direct Current DC |
-| Input voltage | 12-24V |
-| Maximum Power | Single 120W Dual 240W |
-| Number of supported motors | 2 |
-| Main control | The bottom surface is equipped with ESP32 development board lolin32 lite |
-| Encoder support | IIC mode, ABI mode, PWM mode encoder (AS5600, AS5047, AS5048, etc.), SPI mode, HALL encoder |
-| Expansion interface| Serial port (you can control the FOC board through the serial port) |
-| Current Sense Reference Voltage | 3.3V |
-| Current detection maximum current | 3.3A |
+| Description                       | Parameters                                                      |
+| ----------------                  | --------------------------------------------------------------- |
+| Dimensions                        | 56*39 mm                                                        |
+| Input Voltage Type                | Direct Current DC                                               |
+| Input voltage                     | 12-24V                                                          |
+| Maximum Power                     | Single 120W Dual 240W                                           |
+| Number of supported motors        | 2                                                               |
+| Main control                      | The bottom surface is equipped with ESP32 development board lolin32 lite |
+| Encoder support                   | IIC mode, ABI mode, PWM mode encoder (AS5600, AS5047, AS5048, etc.), SPI mode, HALL encoder |
+| Expansion interface               | Serial port (you can control the FOC board through the serial port) |
+| Current Sense Reference Voltage   | 3.3V                                                            |
+| Current detection maximum current | 3.3A                                                            |
 
 ## 3 Community
 
